@@ -1,2 +1,3 @@
 Here's how it looks like...
-- ![Reference Image](/Preview.png)
+<br>
+![Reference Image](/Preview.png)
