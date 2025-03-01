@@ -1,3 +1,3 @@
 Here's how it looks like...
-[![Car](https://img.shields.io/badge/-Car-000?style=flat&logo=Car&logoColor=white)]()
+-[![Car](https://img.shields.io/badge/-Car-000?style=flat&logo=Car&logoColor=blue)]()
 - ![Reference Image](/Preview.png)
